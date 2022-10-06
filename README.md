@@ -16,7 +16,7 @@ The code has the following requirements:
 To run the code, first move to the *src* folder. There are multiple scripts to run in *tests* folder, and each one reproduces one of the experiments in the paper. 
 
 - **Results of Table 1**
-To run this experiments you need to execute the lines below (each line corresponds to a column of a table). 
+To run these experiments you need to execute the lines below (each line corresponds to a column of a table). 
 ```
 python3 -m tests.epkitchen A  
 ```
